@@ -1,0 +1,72 @@
+html, body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    color: rgb(51, 51, 51);/* 字体颜色 */
+    text-align: center;/* 文字居中 */
+    padding: 1em;
+}
+
+.background1{
+    /* rgba(238,238,238,1) */
+    background-color:rgba(238,238,238,1);
+    width: 100%;
+    height: auto;
+    padding: 2em 1em;
+    /* text-align: center; */
+    /* margin: 0 auto; */
+    /* position: relative; */
+    /* top: 30px; */
+    
+}
+
+h1{
+    font-size:40px;/* 标题参数 */
+}
+
+.head_div{
+    font-family: STHeiti;
+    
+}
+
+
+
+.img_background{
+    background-color: rgba(0, 0, 0, 0);
+    width: 90%;
+    margin: 0 auto;
+}
+
+.test_tm{    
+    background-color: white;
+    /* height: 110%; */
+}
+
+.test666{
+    text-align: left;
+    width: 800px;
+    line-height:200%;
+    margin: 0 auto;
+
+}
+
+li{
+    line-height:200%;
+    margin: 22px 0;
+}
+
+.h3_style{
+    margin: 0 auto;
+
+}
+
+.font_1{
+    width: 800px;
+    font-style: italic;
+    margin: 0 auto;
+}
